@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.addButton {
+  margin-bottom: 20px;
+}
+
+.todoList {
+  width: 100%;
+  max-width: 800px;
+}

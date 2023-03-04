@@ -1,0 +1,28 @@
+.todoItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  padding-top: 10px;
+}
+
+.header {
+  margin: 0px 10px;
+  text-decoration: none;
+}
+
+.headerDone {
+  margin: 0px 10px;
+  text-decoration: line-through;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0px 10px;
+
+  button {
+    margin: 5px;
+  }
+}
